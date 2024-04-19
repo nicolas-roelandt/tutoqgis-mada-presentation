@@ -1,0 +1,63 @@
+---
+title: "Tutoriel QGIS"
+author: "MadAtlas - Groupe Data"
+lang: "fr"
+institute: "Université de Fianarantsoa - EMIT - Université Gustave Eiffel"
+logo: ./images/logo_Madatlas.png
+slide-number: true
+format:
+  revealjs: 
+    embed-resources: true
+    #theme: solarized
+    footer: "Présentation du Tuto-QGIS - Ecole d'été MadAtlas - 26/04/2024"
+title-slide-attributes:
+    data-background-image: ./images/logos_partenaires_MadAtlas.png
+    data-background-size: 100%
+    data-background-position: 05% 10%
+    data-background-opacity: "1"
+editor: visual
+---
+
+## Introduction
+
+- Tutoriel en français de prise en main de QGIS
+- Créé en 2017 par Julie Pierson (LETG/CNRS)
+- Licence Creative Commons [CC BY SA](https://creativecommons.org/licenses/by-sa/4.0/deed.fr)
+
+## Objectifs
+
+- Adapter le tutoriel français à la Madagascar
+- Favoriser la prise en main par les étudiants
+- Exploiter les données ouvertes disponibles
+
+## Chapitrage
+
+1. Prise en main
+1. Géodésie
+1. Recherche et ajout de données
+1. Géoréférencement
+1. Numérisation
+1. Requêtes
+
+## Chapitrage
+
+7. Calcul de champs
+1. Jointures
+1. Analyse spatiale
+1. Représentation et mise en page
+1. Automatisation de traitements
+1. Télédétection (en cours de rédaction)
+
+## Valorisation de jeux de données locaux
+
+- FTM
+- [ResilienceMada](https://www.resiliencemada.gov.mg)
+- [SILOAT](https://observatoire-territoire.mg/carte/#/carte/map-siloat)
+- [OCHA - HDX](https://data.humdata.org/dataset/?ext_geodata=1&groups=mdg&q=&sort=last_modified%20desc&ext_page_size=25)
+
+## Autres ressources en ligne
+
+- [Cours QGIS de Laurent Jégou](https://www.geotests.net/cours/qgis/fr)
+- Chaînes videos
+  - [Nicolas Roelandt - en français](https://clap.univ-eiffel.fr/channels/#qgis)
+  - [Klas Karlsson - en anglais](https://www.youtube.com/channel/UCxs7cfMwzgGZhtUuwhny4-Q)
