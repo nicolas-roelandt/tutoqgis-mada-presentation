@@ -21,8 +21,12 @@ editor: visual
 ## Introduction
 
 - Tutoriel en français de prise en main de QGIS
-- Créé en 2017 par Julie Pierson (LETG/CNRS)
+- Créé en 2014 par Julie Pierson (LETG/CNRS)
 - Licence Creative Commons [CC BY SA](https://creativecommons.org/licenses/by-sa/4.0/deed.fr)
+
+![](images/logo_PASSAGES.png){.absolute top=350 left=100 width="350" height="200"}
+
+![](images/logo_letg.png){.absolute top=300 left=700 height="300"}
 
 ## Objectifs
 
@@ -61,3 +65,5 @@ editor: visual
 - Chaînes videos
   - [Nicolas Roelandt - en français](https://clap.univ-eiffel.fr/channels/#qgis)
   - [Klas Karlsson - en anglais](https://www.youtube.com/channel/UCxs7cfMwzgGZhtUuwhny4-Q)
+
+
