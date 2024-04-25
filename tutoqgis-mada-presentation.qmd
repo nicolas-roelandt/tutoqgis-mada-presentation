@@ -69,8 +69,18 @@ editor: visual
 ## Perspectives
 
 - Adapter le support au contexte de Madagascar
-  - données
-  - géodésie et systèmes de référence de coordonnées
+  - Données
+  - Partie prise en main et géodésie
   - mise à jour des méthodes présentées
 - Enrichir la version française d'un exemple malgache
 - Traduction en Malagasy
+
+## Merci pour votre attention
+
+- TutoQGIS : [s.42l.fr/tutoqgis-mada](https://s.42l.fr/tutoqgis-mada)
+- Dépôt : [https://github.com/EMIT-Ecole-de-MIT/tutoqgis_mada](https://github.com/EMIT-Ecole-de-MIT/tutoqgis_mada)
+- Présentation: [s.42l.fr/tutoqgis-mada-presentation](https://s.42l.fr/tutoqgis-mada-presentation)
+
+<br>
+
+
